@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/weather-app.io/static/css/main.dadf731e.chunk.css",
-    "main.js": "/weather-app.io/static/js/main.76f6b611.chunk.js",
-    "main.js.map": "/weather-app.io/static/js/main.76f6b611.chunk.js.map",
-    "runtime-main.js": "/weather-app.io/static/js/runtime-main.ef934ff7.js",
-    "runtime-main.js.map": "/weather-app.io/static/js/runtime-main.ef934ff7.js.map",
-    "static/css/2.486497b7.chunk.css": "/weather-app.io/static/css/2.486497b7.chunk.css",
-    "static/js/2.fe539afd.chunk.js": "/weather-app.io/static/js/2.fe539afd.chunk.js",
-    "static/js/2.fe539afd.chunk.js.map": "/weather-app.io/static/js/2.fe539afd.chunk.js.map",
-    "index.html": "/weather-app.io/index.html",
-    "precache-manifest.7cf7970087d2188369853f6cfe292083.js": "/weather-app.io/precache-manifest.7cf7970087d2188369853f6cfe292083.js",
-    "service-worker.js": "/weather-app.io/service-worker.js",
-    "static/css/2.486497b7.chunk.css.map": "/weather-app.io/static/css/2.486497b7.chunk.css.map",
-    "static/css/main.dadf731e.chunk.css.map": "/weather-app.io/static/css/main.dadf731e.chunk.css.map",
-    "static/js/2.fe539afd.chunk.js.LICENSE.txt": "/weather-app.io/static/js/2.fe539afd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/weather-app.io/static/media/005.a8e96df2.jpg",
-    "static/media/weather-icons.css": "/weather-app.io/static/media/weathericons-regular-webfont.ed0943f2.svg"
+    "main.css": "/Inderjeet0003.github.io/static/css/main.1f439601.chunk.css",
+    "main.js": "/Inderjeet0003.github.io/static/js/main.37faeaf1.chunk.js",
+    "main.js.map": "/Inderjeet0003.github.io/static/js/main.37faeaf1.chunk.js.map",
+    "runtime-main.js": "/Inderjeet0003.github.io/static/js/runtime-main.93bb04c5.js",
+    "runtime-main.js.map": "/Inderjeet0003.github.io/static/js/runtime-main.93bb04c5.js.map",
+    "static/css/2.ee6bdd51.chunk.css": "/Inderjeet0003.github.io/static/css/2.ee6bdd51.chunk.css",
+    "static/js/2.fe539afd.chunk.js": "/Inderjeet0003.github.io/static/js/2.fe539afd.chunk.js",
+    "static/js/2.fe539afd.chunk.js.map": "/Inderjeet0003.github.io/static/js/2.fe539afd.chunk.js.map",
+    "index.html": "/Inderjeet0003.github.io/index.html",
+    "precache-manifest.0d74edf51327c1c267cfa1aa9ae08251.js": "/Inderjeet0003.github.io/precache-manifest.0d74edf51327c1c267cfa1aa9ae08251.js",
+    "service-worker.js": "/Inderjeet0003.github.io/service-worker.js",
+    "static/css/2.ee6bdd51.chunk.css.map": "/Inderjeet0003.github.io/static/css/2.ee6bdd51.chunk.css.map",
+    "static/css/main.1f439601.chunk.css.map": "/Inderjeet0003.github.io/static/css/main.1f439601.chunk.css.map",
+    "static/js/2.fe539afd.chunk.js.LICENSE.txt": "/Inderjeet0003.github.io/static/js/2.fe539afd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Inderjeet0003.github.io/static/media/005.a8e96df2.jpg",
+    "static/media/weather-icons.css": "/Inderjeet0003.github.io/static/media/weathericons-regular-webfont.ed0943f2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef934ff7.js",
-    "static/css/2.486497b7.chunk.css",
+    "static/js/runtime-main.93bb04c5.js",
+    "static/css/2.ee6bdd51.chunk.css",
     "static/js/2.fe539afd.chunk.js",
-    "static/css/main.dadf731e.chunk.css",
-    "static/js/main.76f6b611.chunk.js"
+    "static/css/main.1f439601.chunk.css",
+    "static/js/main.37faeaf1.chunk.js"
   ]
 }
